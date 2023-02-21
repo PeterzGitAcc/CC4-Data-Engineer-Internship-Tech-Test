@@ -1,2 +1,0 @@
-# govtechProject
-Zomato Inspired app
