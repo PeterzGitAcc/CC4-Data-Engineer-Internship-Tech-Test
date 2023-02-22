@@ -1,21 +1,12 @@
 import requests
 import pandas as pd
+from get_data import retrieve_data , restaurant_data_url
 #initialize global values 
-restaurant_data_url = "https://raw.githubusercontent.com/Papagoat/brain-assessment/main/restaurant_data.json"
 restaurant_data_events_fields = ["id",'name']
 fields_from_events = ['event_id','title','start_date','end_date']
 
 
 #functions
-def retrieve_data(data_url):
-    response = requests.get(data_url)
-    if response.ok:
-        response_data = response.json()
-    else:
-        return "An error has occured"
-    
-    return response_data
-
 
 restaurant_data = retrieve_data(restaurant_data_url)
 
