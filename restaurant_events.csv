@@ -9,11 +9,11 @@
 4,18238278,Tamasha,NA,NA,NA,NA,NA
 5,18268712,Chili's Grill & Bar,NA,NA,NA,NA,NA
 6,18198449,Punjabi Angithi,NA,NA,NA,NA,NA
-7,18382360,Local,336889.0,2019-04-10,2019-04-10,Cocktail Wednesday,[]
+7,18382360,Local,336903.0,2019-04-13,2019-04-13,Urban Saturday,['https://b.zmtcdn.com/data/zomato_events/photos/5ee/165894b7ce0bfd2812796a3f8c6f15ee_1554728236.jpg']
 8,18273624,Cafeteria & Co.,NA,NA,NA,NA,NA
-9,18466951,Jungle Jamboree,116096.0,2019-01-21,2019-05-31,Festive Food Bonanza || Special Buffet Prices starting @ Rs. 499 + || Full Day Alacarte,['https://b.zmtcdn.com/data/zomato_events/photos/847/acb0693c612ec13c15e618d4bf3cf847_1507619388.jpg']
+9,18466951,Jungle Jamboree,336622.0,2019-04-08,2019-04-13,Special Navratras Thali at just @399 +Taxes at Jungle Jamboree,['https://b.zmtcdn.com/data/zomato_events/photos/ffe/96d21e7be18ea0bbc2d7f44496697ffe_1554702984.jpg']
 10,306046,SodaBottleOpenerWala,NA,NA,NA,NA,NA
-11,18337893,The Luggage Room Kitchen And Bar,336251.0,2019-04-10,2019-04-11,Commercial Night,['https://b.zmtcdn.com/data/zomato_events/photos/799/108cf02227f93ebf23d0931aad9c6799_1554553534.jpeg']
+11,18337893,The Luggage Room Kitchen And Bar,336248.0,2019-04-11,2019-04-11,Ladies Night,['https://b.zmtcdn.com/data/zomato_events/photos/64f/6b5003ddf79e8c67cb0ce2e8a17aa64f_1554552608.jpeg']
 12,18518483,Echoes Hudson Lane,NA,NA,NA,NA,NA
 13,18246991,Odeon Social,332812.0,2019-03-29,2019-05-23,Live 20/20 Match Screenings,['https://b.zmtcdn.com/data/zomato_events/photos/e11/de21c69b73b6220731a4191883338e11_1553860194.jpg']
 14,8913,Pirates of Grill,NA,NA,NA,NA,NA
@@ -23,8 +23,8 @@
 18,18258498,Chinese Kitchen,NA,NA,NA,NA,NA
 19,18537536,Chili's Grill & Bar,NA,NA,NA,NA,NA
 20,18707652,Zam Zam,NA,NA,NA,NA,NA
-21,18571735,Dum Laga Ke Haishaa,292840.0,2018-12-28,2019-12-31,Corporate Lunch Box ,"['https://b.zmtcdn.com/data/zomato_events/photos/647/21460fdc477d489aa14b5737ad8b4647_1545986849.jpg', 'https://b.zmtcdn.com/data/zomato_events/photos/9d8/64650c048db51b793f4cb1ba5b72a9d8_1545986850.jpg', 'https://b.zmtcdn.com/data/zomato_events/photos/c67/5e7cc582f8d1c247402f7e63df920c67_1546020375.jpg']"
-22,18398880,JW Kitchen - JW Marriott Hotel Kolkata,260569.0,2019-01-02,2019-09-30,Corporate Buffet Dinner,['https://b.zmtcdn.com/data/zomato_events/photos/cfa/2ada6e3ed9f4f3dea6df099b8d04dcfa_1538636463.jpg']
+21,18571735,Dum Laga Ke Haishaa,337102.0,2019-04-14,2019-04-15,Poila Baishak Special,['https://b.zmtcdn.com/data/zomato_events/photos/42d/5ff1422e615ed8199844db6c6839342d_1554791652.jpg']
+22,18398880,JW Kitchen - JW Marriott Hotel Kolkata,334818.0,2019-04-15,2019-04-15,Poila Baishakh Buffet ,['https://b.zmtcdn.com/data/zomato_events/photos/cd3/63b861ffce13a6772331351c3d4a7cd3_1554270291.jpeg']
 23,18677746,Burger in Law,NA,NA,NA,NA,NA
 24,17983797,Dada Boudi Restaurant,NA,NA,NA,NA,NA
 25,18538536,Scrapyard,NA,NA,NA,NA,NA
@@ -32,7 +32,7 @@
 27,18354569,Tram Deepo,NA,NA,NA,NA,NA
 28,18259462,Ocean Grill,286422.0,2018-12-17,2019-04-30,Customised Party Packages,[]
 29,18761167,Echoes Kolkata,337247.0,2019-04-15,2019-04-15,Celebrate Poila Boishak with Echoes,['https://b.zmtcdn.com/data/zomato_events/photos/fd4/28cb2e167c37cb93352c8d7ff086ffd4_1554804343.jpg']
-30,18751849,Five Mad Men,333108.0,2019-04-03,2019-05-05,Apna Stadium Khud Chuno - IPL 2019 Big Match Day,"['https://b.zmtcdn.com/data/zomato_events/photos/c36/7f0216962bad1b7239eb65be4e79ac36_1553939104.jpg', 'https://b.zmtcdn.com/data/zomato_events/photos/a21/d419fb7720cd78bac240d94d5a5e9a21_1553939104.jpg', 'https://b.zmtcdn.com/data/zomato_events/photos/834/9b9cbc8c2936e8579adf4ab9c7ae2834_1553939104.jpg']"
+30,18751849,Five Mad Men,334922.0,2019-04-15,2019-04-15,Game of Thrones - Special Screening of season 8,['https://b.zmtcdn.com/data/zomato_events/photos/ee3/13745a8a0307c436afac7fc4f2cdfee3_1554282159.jpg']
 31,20747,India Restaurant,NA,NA,NA,NA,NA
 32,18461760,Kankurgachi Dhaba,NA,NA,NA,NA,NA
 33,20404,Peter Cat,NA,NA,NA,NA,NA
@@ -42,7 +42,7 @@
 37,18377112,Nawwarah Fine Dine & Lounge,NA,NA,NA,NA,NA
 38,18610904,The Fatty Bao,NA,NA,NA,NA,NA
 39,18711365,The Saffron Tree,NA,NA,NA,NA,NA
-40,18392725,Tamasha,336892.0,2019-04-11,2019-04-12,Bombay Velvet,['https://b.zmtcdn.com/data/zomato_events/photos/226/ba2b3f29cb4ad068b5c24e2be8a47226_1554726923.jpg']
+40,18392725,Tamasha,336898.0,2019-04-12,2019-04-13,Zulfi Performing Live,['https://b.zmtcdn.com/data/zomato_events/photos/4d5/714bbc76d08697beb0a92b7a164f04d5_1554727292.jpg']
 41,18701052,The Fusion Kitchen,298104.0,2019-03-15,2019-04-30,HAPPY HOURS 1+1 ,['https://b.zmtcdn.com/data/zomato_events/photos/e3b/f4ff3f0587a19faae36ab04fa1c2ce3b_1550491642.jpg']
 42,18548172,Hitchki,NA,NA,NA,NA,NA
 43,18591040,Hitchki,NA,NA,NA,NA,NA
@@ -52,54 +52,54 @@
 47,18669432,HITCHKI,NA,NA,NA,NA,NA
 48,18566818,JLWA,336881.0,2019-04-10,2019-04-11,Juggy & Band Live,['https://b.zmtcdn.com/data/zomato_events/photos/ee5/3136ce776bb5713020dc50098b29bee5_1554725717.jpg']
 49,48851,Rude Lounge,318235.0,2019-04-20,2019-04-20,Zumba Fitness with ZIN Mohsin & ZIN Varsha at Rude Powai,['https://b.zmtcdn.com/data/zomato_events/photos/4d5/13623423b8a28744a3d0fdbeee5754d5_1551098744.jpg']
-50,18205932,The Cult - Peninsula Grand Hotel,330912.0,2019-03-25,2019-04-30,Live Cricket Screening (Exclusive),['https://b.zmtcdn.com/data/zomato_events/photos/db5/e7f55f631ece262fb5b277087c310db5_1553526714.jpg']
+50,18205932,The Cult - Peninsula Grand Hotel,337023.0,2019-04-14,2019-04-15,Sunday Night ,['https://b.zmtcdn.com/data/zomato_events/photos/667/b3386da080734d28b323598100093667_1554751324.jpg']
 51,18732598,Timess Square,NA,NA,NA,NA,NA
-52,18580259,Coffee Culture,336281.0,2019-04-11,2019-04-11,Ink-A-Laugh Presents Bearly Funny,['https://b.zmtcdn.com/data/zomato_events/photos/307/17dd56fc03fc0a87c182a5dd9df10307_1554562379.jpg']
+52,18580259,Coffee Culture,336279.0,2019-04-18,2019-04-18,"Stand Up Comedy @ Coffee Culture, Bandra On Every Thursday !",[]
 53,34757,Joey's Pizza,NA,NA,NA,NA,NA
 54,18522518,Vikhroli Social,332812.0,2019-03-29,2019-05-23,Live 20/20 Match Screenings,['https://b.zmtcdn.com/data/zomato_events/photos/e11/de21c69b73b6220731a4191883338e11_1553860194.jpg']
 55,18917650,Warehouse Kitchenbar,NA,NA,NA,NA,NA
 56,35217,Joey's Pizza,NA,NA,NA,NA,NA
-57,18397684,Craftbar,233993.0,2019-01-09,2019-05-31,Corporate Buffet Lunch at 199/-* (Monday to Friday) ,[]
+57,18397684,Craftbar,309090.0,2019-02-20,2019-04-30,Wednesday Angel's Night ,[]
 58,36403,Prithvi Cafe,NA,NA,NA,NA,NA
-59,18691230,Grandmama's Café,310712.0,2019-02-09,2019-04-20,Grandmama's Burger Shake & Fries Combo,"['https://b.zmtcdn.com/data/zomato_events/photos/224/073b2cdc488f5565aabd131ca39ae224_1549624365.jpeg', 'https://b.zmtcdn.com/data/zomato_events/photos/c48/f8772a9be9d75ff3185fc8c64a6e5c48_1549624365.jpeg']"
+59,18691230,Grandmama's Café,328877.0,2019-03-25,2019-05-19,IPL Hours at Grandmama's Cafe,['https://b.zmtcdn.com/data/zomato_events/photos/b62/0b4ae8502067707a163a39bf0d719b62_1553088932.jpg']
 60,58882,Byg Brewski Brewing Company,NA,NA,NA,NA,NA
-61,18706428,Byg Brewski Brewing Company,277195.0,2018-11-25,2019-12-29,Sunday Brunch,"['https://b.zmtcdn.com/data/zomato_events/photos/259/586be54addd8388ab52579d6121a5259_1542969506.jpeg', 'https://b.zmtcdn.com/data/zomato_events/photos/a6a/fc19dc9d0eae1cda0c518ccac1525a6a_1542969506.jpeg', 'https://b.zmtcdn.com/data/zomato_events/photos/b94/47073a3e621962cfaaa1cec12c8dfb94_1542969506.jpeg', 'https://b.zmtcdn.com/data/zomato_events/photos/b18/d0839565d8e842b435f539cc7d7e9b18_1542969507.jpeg', 'https://b.zmtcdn.com/data/zomato_events/photos/d2b/4d0fa00a5e2de08ecaf369204f11dd2b_1551960956.jpeg', 'https://b.zmtcdn.com/data/zomato_events/photos/f58/80f372b7cd3e1b10ac8829340876af58_1551960956.jpeg', 'https://b.zmtcdn.com/data/zomato_events/photos/0e8/0547eb52d6e9371bda79b5395668f0e8_1551960957.jpeg', 'https://b.zmtcdn.com/data/zomato_events/photos/544/e7cbf84f6b6cc7ff4d10c8fe029fa544_1551960957.jpeg', 'https://b.zmtcdn.com/data/zomato_events/photos/201/e1300dd8254d48c7aad5d851b1e1e201_1551960957.jpeg', 'https://b.zmtcdn.com/data/zomato_events/photos/88a/a6ab89ffef2ab52ac39176cdf617c88a_1551960957.jpeg']"
-62,18871246,ShakesBierre,329360.0,2019-03-22,2019-04-30,MOODYMONDAYS,['https://b.zmtcdn.com/data/zomato_events/photos/9d4/56c8e94dd9f3ccd4507446ed780889d4_1553239385.jpg']
-63,18772094,Bombay Adda,335948.0,2019-04-11,2019-04-12,Ladies & Models Night Ft. DJ Njay,['https://b.zmtcdn.com/data/zomato_events/photos/e42/9bc929b0f3d42c75d9f8b200c58a8e42_1554468914.jpg']
+61,18706428,Byg Brewski Brewing Company,279336.0,2018-11-29,2019-12-31,Corporate Events,"['https://b.zmtcdn.com/data/zomato_events/photos/d72/e770dbc5f27c87b39dd848e0ac519d72_1543846758.jpg', 'https://b.zmtcdn.com/data/zomato_events/photos/c93/859e88e64bf64e6d9fe22c8043f89c93_1543846758.jpg']"
+62,18871246,ShakesBierre,332383.0,2019-03-28,2019-04-30,STANDUPCOMEDY,['https://b.zmtcdn.com/data/zomato_events/photos/921/aac386792791cc0d57170c8c69259921_1553779838.jpg']
+63,18772094,Bombay Adda,335989.0,2019-04-14,2019-04-15,Unplugged Night Ft. Saher,['https://b.zmtcdn.com/data/zomato_events/photos/daf/f8880703cde05ef2d9a60c58fef8edaf_1554471175.jpg']
 64,18578798,TBC Sky Lounge,NA,NA,NA,NA,NA
 65,18945224,Secret Of Bangalore,NA,NA,NA,NA,NA
 66,18254597,Brew and Barbeque - A Microbrewery Pub,NA,NA,NA,NA,NA
-67,18387426,The Black Pearl,328860.0,2019-03-20,2019-06-10,Cricket Season Specials at The Black Pearl Marathahalii,['https://b.zmtcdn.com/data/zomato_events/photos/34a/12bf034e5fcc97b727660358632de34a_1553086644.png']
+67,18387426,The Black Pearl,334210.0,2019-04-02,2020-03-31,Cocktails and Mocktails offers at Black Pearl ,"['https://b.zmtcdn.com/data/zomato_events/photos/763/823547a36ed40f9b4bec7ab5f4b25763_1554190858.jpeg', 'https://b.zmtcdn.com/data/zomato_events/photos/e0f/c8fc6c14e15bcaf40df8d2d659ac6e0f_1554190859.jpeg', 'https://b.zmtcdn.com/data/zomato_events/photos/b90/c9bfdf963ccaa51502938e28f4ba1b90_1554190859.jpeg']"
 68,57833,Big Pitcher,270216.0,2018-11-01,2020-10-31,New Food Menu Launch at Big Pitcher,['https://b.zmtcdn.com/data/zomato_events/photos/981/c27a588a41e431a0619c19edb6a14981_1541091518.jpg']
-69,54162,The Black Pearl,302811.0,2019-01-23,2019-04-30,Special Pirate Packages for Lunch ,['https://b.zmtcdn.com/data/zomato_events/photos/9b0/b9a7af4c9c397442df4c644bfe7b59b0_1548229153.jpg']
+69,54162,The Black Pearl,336932.0,2019-04-08,2020-03-31,Sunday Specials at The Black Pearl,['https://b.zmtcdn.com/data/zomato_events/photos/359/40bdc0c46472fe6eeb756f47fce01359_1554730726.jpeg']
 70,18853706,Brahma Brews,NA,NA,NA,NA,NA
 71,18625420,Burma Burma,NA,NA,NA,NA,NA
-72,18595782,The Pallet,251427.0,2019-04-10,2019-04-10,The Desi Electrifier Night | Every Wednesday | Ft. DJ 303K | Bollywood Deep House,['https://b.zmtcdn.com/data/zomato_events/photos/7df/819679a3c0fd7f5a2ced303beb7127df_1543831739.png']
-73,18537585,The Reservoire,332261.0,2019-03-28,2019-05-12,IPL Live Screening at The Reservoire,['https://b.zmtcdn.com/data/zomato_events/photos/c8f/8741b1909fbd644229e02d1194204c8f_1553772278.jpg']
+72,18595782,The Pallet,264218.0,2019-04-15,2019-04-15,Monday Madness | Ft. DJ Sam | Full Day Happy Hours,['https://b.zmtcdn.com/data/zomato_events/photos/66f/57ce93ad5437845e88ec3ef7c424c66f_1539599793.jpg']
+73,18537585,The Reservoire,337463.0,2019-04-09,2019-06-09,SUNDAY TIKI BRUNCH,['https://b.zmtcdn.com/data/zomato_events/photos/587/e83c2132c75013e76d5fd7121314d587_1554827399.jpg']
 74,56618,AB's - Absolute Barbecues,NA,NA,NA,NA,NA
 75,51040,Truffles,NA,NA,NA,NA,NA
 76,18874059,The Pump House,NA,NA,NA,NA,NA
-77,18709627,Simon Says Brew Works,297581.0,2019-01-13,2019-07-28,LADIES NIGHT & BOLLYWOOD KARAOKE,['https://b.zmtcdn.com/data/zomato_events/photos/cec/f73a02fc69cf3c4d207373e9bac11cec_1547045966.jpg']
-78,18727906,XOOX Brewmill,320441.0,2019-04-08,2019-04-30,Happy Hours Menu,['https://b.zmtcdn.com/data/zomato_events/photos/aa2/b5391dff2f22069e9c46251edd4afaa2_1554104249.jpg']
+77,18709627,Simon Says Brew Works,315874.0,2019-03-28,2019-04-26,Bollywood Night with DJ Oppozit,['https://b.zmtcdn.com/data/zomato_events/photos/278/bb1e372263762c810a7c220d732bd278_1550569902.jpg']
+78,18727906,XOOX Brewmill,314958.0,2019-04-13,2019-04-30,Unlimited Sparkling Wine Brunch !,['https://b.zmtcdn.com/data/zomato_events/photos/2e1/cb5585c6669f8456c20af9f12eabb2e1_1552052914.jpg']
 79,18642512,Stories,NA,NA,NA,NA,NA
 80,18893197,FC Road Social,332812.0,2019-03-29,2019-05-23,Live 20/20 Match Screenings,['https://b.zmtcdn.com/data/zomato_events/photos/e11/de21c69b73b6220731a4191883338e11_1553860194.jpg']
 81,18880433,BeHive,337514.0,2019-04-10,2019-04-10,"queen bees , ladies night",['https://b.zmtcdn.com/data/zomato_events/photos/7cd/349ff41efcc982b82ad889684803a7cd_1554865907.jpg']
 82,18715982,Flechazo,NA,NA,NA,NA,NA
 83,18562250,Cafe Co2 Resto Lounge,332116.0,2019-03-28,2019-05-19,Live Cricket Screening @ Cafe CO2,[]
-84,6508166,Flying Duck Co.,337013.0,2019-04-09,2019-04-11,Alcoholic Weekdays! ,"['https://b.zmtcdn.com/data/zomato_events/photos/10e/3f9ce11fe6d2bf7263974e5d188be10e_1552983128.jpg', 'https://b.zmtcdn.com/data/zomato_events/photos/d2d/7e0b8ac1643d35ad04e378926b89fd2d_1552983267.jpg']"
+84,6508166,Flying Duck Co.,337015.0,2019-04-10,2019-04-10,Girls Night Out,['https://b.zmtcdn.com/data/zomato_events/photos/0f1/62519986315c982e1bd127af1e5af0f1_1553061040.jpg']
 85,18586395,Onesta,NA,NA,NA,NA,NA
 86,18732937,Darshan,NA,NA,NA,NA,NA
 87,18784250,Universal Barbeque,332959.0,2019-03-29,2019-04-30,FAMILY OFFER,['https://b.zmtcdn.com/data/zomato_events/photos/335/a6598b1e960e98d9447d4e03c06cc335_1553873543.jpeg']
 88,18740139,Grandmama's Cafe,329559.0,2019-04-11,2019-04-11,Grandma's Quiz Night! ,['https://b.zmtcdn.com/data/zomato_events/photos/ce7/f68ca85fd4194e229684269af3748ce7_1553259518.jpg']
 89,18545152,AB's - Absolute Barbecues,NA,NA,NA,NA,NA
-90,18417624,The Sassy Spoon,336866.0,2019-04-08,2019-12-31,Gossip & Giggles ,[]
+90,18417624,The Sassy Spoon,336867.0,2019-04-08,2019-12-31,A Night to Remember ,[]
 91,18383095,Teddy Boy,NA,NA,NA,NA,NA
 92,18621437,The FML Lounge,336718.0,2019-04-08,2019-05-31,HAPPY DAYS 1+1,['https://b.zmtcdn.com/data/zomato_events/photos/308/c3b32cf4f0840253801ff0c01e6fa308_1554714758.jpg']
 93,18890430,The Barkhana,NA,NA,NA,NA,NA
 94,18617201,Onesta,NA,NA,NA,NA,NA
 95,18650304,Tatva,NA,NA,NA,NA,NA
 96,18657534,Viman Nagar Social,332812.0,2019-03-29,2019-05-23,Live 20/20 Match Screenings,['https://b.zmtcdn.com/data/zomato_events/photos/e11/de21c69b73b6220731a4191883338e11_1553860194.jpg']
-97,18536004,Culture - पुणे,327542.0,2019-03-18,2019-12-31,Ladies Night- Every Thursday,['https://b.zmtcdn.com/data/zomato_events/photos/9f9/3cd9dbbfdc7ad22a7c24cd8fd83b39f9_1552899227.jpg']
+97,18536004,Culture - पुणे,337114.0,2019-04-10,2019-04-10,IPL Quiz Night,['https://b.zmtcdn.com/data/zomato_events/photos/b58/f2a16cc683eeaabb01052f2c7959fb58_1554792467.jpg']
 98,6508323,The Urban Foundry,337273.0,2019-04-09,2019-04-30,LIVE SCREENING,['https://b.zmtcdn.com/data/zomato_events/photos/a64/c393a5e9f6a20df4f15f19926c5afa64_1554807097.jpg']
 99,18678581,Hippie@Heart,NA,NA,NA,NA,NA
 100,90896,Bawarchi,NA,NA,NA,NA,NA
@@ -120,10 +120,10 @@
 115,18807262,Broadway,337301.0,2019-04-10,2019-04-10,Meghna Dundi Trio LIVE,['https://b.zmtcdn.com/data/zomato_events/photos/f0d/f84051fb085a223c2970971957175f0d_1554810437.jpg']
 116,18774025,eat.fit,NA,NA,NA,NA,NA
 117,18965675,Chubby Cho,NA,NA,NA,NA,NA
-118,18607685,Farzi Cafe,331960.0,2019-03-27,2019-05-05,IPL Live Screening!,['https://b.zmtcdn.com/data/zomato_events/photos/8fe/c6dcf42e6a98e81aeb8415370da9e8fe_1553694381.jpeg']
+118,18607685,Farzi Cafe,336905.0,2019-04-12,2019-04-13,Electronic Fridays with YOGI!,['https://b.zmtcdn.com/data/zomato_events/photos/131/80b55b59d265decfe4ed923157b53131_1554728150.jpeg']
 119,94402,4M Biryani House,NA,NA,NA,NA,NA
 120,18938720,Coal Barbecues,NA,NA,NA,NA,NA
-121,18800810,The Black Pearl,333451.0,2019-04-01,2020-03-31,Early Bird Offer on Buffet!,['https://b.zmtcdn.com/data/zomato_events/photos/d3c/6c736ceb55aa545c4e1f2af77eedcd3c_1554060000.jpeg']
+121,18800810,The Black Pearl,337249.0,2019-04-14,2019-04-14,Tamil Puthandu in Pirates Style,"['https://b.zmtcdn.com/data/zomato_events/photos/34b/2ca35fca44e8e154a940b4ad46af634b_1554804659.jpg', 'https://b.zmtcdn.com/data/zomato_events/photos/7d6/388c741ca91a34e4bcc9f67bf764e7d6_1554804659.jpg']"
 122,18595414,Coal Barbecues,NA,NA,NA,NA,NA
 123,18513783,Onesta,NA,NA,NA,NA,NA
 124,70856,AB's - Absolute Barbecues,NA,NA,NA,NA,NA
@@ -144,7 +144,7 @@
 139,18540650,Guntur Gongura,NA,NA,NA,NA,NA
 140,800894,Mubeen's,NA,NA,NA,NA,NA
 141,800468,Tunday Kababi,NA,NA,NA,NA,NA
-142,18801082,Farzi Café,331036.0,2019-03-26,2019-05-30,CRICKET FEVER - 2019,[]
+142,18801082,Farzi Café,335809.0,2019-04-14,2019-04-15,Sunday Night with Indie Street Rockers!,['https://b.zmtcdn.com/data/zomato_events/photos/814/df682d8402a8276f22dd32b0cf180814_1554455250.jpeg']
 143,18970077,The Hazelnut Factory,NA,NA,NA,NA,NA
 144,801170,Spice Caves,NA,NA,NA,NA,NA
 145,18560184,The Terrace ,NA,NA,NA,NA,NA
@@ -183,7 +183,7 @@
 178,18153935,Galito's,NA,NA,NA,NA,NA
 179,95333,Chiyang,NA,NA,NA,NA,NA
 180,100242,Shree Agarwal Caterers,NA,NA,NA,NA,NA
-181,18748726,The Night Jar,328996.0,2019-03-23,2019-05-19,IPL Live Screening,['https://b.zmtcdn.com/data/zomato_events/photos/c19/15214588f9c5c7635b22d57ea026fc19_1553100842.jpg']
+181,18748726,The Night Jar,336485.0,2019-04-10,2019-04-10,Wow Wednesday,['https://b.zmtcdn.com/data/zomato_events/photos/104/70ee0cc803cdbdde1ab8bb92d3315104_1554742926.jpg']
 182,18641794,Shankar Samosa,NA,NA,NA,NA,NA
 183,18903417,Chool,NA,NA,NA,NA,NA
 184,18625823,Gulabi Nagari,NA,NA,NA,NA,NA
@@ -213,7 +213,7 @@
 208,112466,Jay Nilkanth Food,NA,NA,NA,NA,NA
 209,18663856,The Red Bistro,NA,NA,NA,NA,NA
 210,18766904,The Secret Kitchen,NA,NA,NA,NA,NA
-211,18627705,I Love Sandwich House,327580.0,2019-03-18,2019-04-30,"SALAD FEST - "" The Summer of Salads """,['https://b.zmtcdn.com/data/zomato_events/photos/23a/38d30c8b480f04b9587fcefaf757e23a_1552903234.jpg']
+211,18627705,I Love Sandwich House,208222.0,2019-03-23,2019-05-12,IPL Live screening,[]
 212,18819827,Kadak Bhagat,NA,NA,NA,NA,NA
 213,18874418,Upri Manzil,NA,NA,NA,NA,NA
 214,18578691,Bogarosa,329816.0,2019-03-23,2019-05-06,IPL LIVE SCREENING ,['https://b.zmtcdn.com/data/zomato_events/photos/13d/29c6cfa980d563833d2c139ff719613d_1553330904.jpg']
@@ -242,7 +242,7 @@
 237,120554,Books N Brew,NA,NA,NA,NA,NA
 238,122875,Tossin Pizza,NA,NA,NA,NA,NA
 239,123191,CAFÈ JC's,NA,NA,NA,NA,NA
-240,130309,Purple Martini,337488.0,2019-04-12,2019-04-12,Friday Artisans Bazaar with Live Music On SITAR at Purple Martini at Sunset Point,['https://b.zmtcdn.com/data/zomato_events/photos/398/e170471e1cbc94495cee183046834398_1554836969.png']
+240,130309,Purple Martini,337490.0,2019-04-14,2019-04-14,Shanti Sundays with Saxophonist ARTEMIY at Purple Martini at Sunset Point,['https://b.zmtcdn.com/data/zomato_events/photos/60a/07e8be093e43e8e7558c8c054072c60a_1554837191.png']
 241,130409,Baba Au Rhum,NA,NA,NA,NA,NA
 242,16512333,Britto's Bar & Restaurant,NA,NA,NA,NA,NA
 243,16524239,Bay 15,NA,NA,NA,NA,NA
@@ -626,10 +626,10 @@
 621,18706194,Goosebumps,NA,NA,NA,NA,NA
 622,3301708,Plan B,NA,NA,NA,NA,NA
 623,3300056,Barbecue Restaurant,NA,NA,NA,NA,NA
-624,3301462,Three Beans,330084.0,2019-03-24,2019-05-19,IPL Live Screening,[]
+624,3301462,Three Beans,336304.0,2019-04-15,2019-04-15,GOT FINAL SEASON S08E01,[]
 625,3300012,Mini Punjab,NA,NA,NA,NA,NA
 626,18623894,Bouffage Cafe & Bistro,329596.0,2019-03-23,2019-07-31,Sports Unlimited,[]
-627,18748677,The Civil Kitchen,336612.0,2019-04-08,2019-04-30,BUY 1 GET 1,[]
+627,18748677,The Civil Kitchen,336615.0,2019-04-08,2019-06-30,Kitty Party ,[]
 628,3300707,KFC,NA,NA,NA,NA,NA
 629,3300958,Barbeque Nation,NA,NA,NA,NA,NA
 630,3301605,Roast Cafe,NA,NA,NA,NA,NA
@@ -793,7 +793,7 @@
 788,205432,Old Castello Restaurant & Cafe,NA,NA,NA,NA,NA
 789,18549283,Sthan,NA,NA,NA,NA,NA
 790,200376,California Pizza Kitchen,NA,NA,NA,NA,NA
-791,203518,The Huddle Sports Bar and Grill - Citymax Hotels Bur Dubai,301593.0,2019-01-20,2019-05-31,The Huddle Grub Lunch,['https://b.zmtcdn.com/data/zomato_events/photos/2bb/bb1286199eb8c8f77ebf7455a374f2bb_1547986496.jpg']
+791,203518,The Huddle Sports Bar and Grill - Citymax Hotels Bur Dubai,316249.0,2019-04-26,2019-04-27,The Huddle Bollywood Night,['https://b.zmtcdn.com/data/zomato_events/photos/3f4/55cbf6d07983e2e71099368ff6b8b3f4_1550642162.jpg']
 792,18233284,Farzi Cafe,NA,NA,NA,NA,NA
 793,18604803,Dillicious,NA,NA,NA,NA,NA
 794,18650045,Tamarind Terrace,337390.0,2019-04-15,2019-04-15,Vishu Sadhya,['https://b.zmtcdn.com/data/zomato_events/photos/59a/3b4b84d7f4a09ec3d2819a9d418d359a_1554819420.jpg']
@@ -858,9 +858,9 @@
 853,18493509,MYNT Indian Cuisine,NA,NA,NA,NA,NA
 854,18212135,Denny's,308361.0,2019-02-05,2019-04-30,Introducing the Ultimate Shakshouka & The Denny's Bennies,"['https://b.zmtcdn.com/data/zomato_events/photos/7a5/3e7640580c2a0ab05313c29ff28ba7a5_1549347517.jpg', 'https://b.zmtcdn.com/data/zomato_events/photos/5f6/2a2f9fe52b66407d26731c993b1b85f6_1549347518.jpg']"
 855,5701442,Peppermill,NA,NA,NA,NA,NA
-856,5702990,Jazz@PizzaExpress,241424.0,2018-08-02,2019-08-12,2 for 1 Monday’s,['https://b.zmtcdn.com/data/zomato_events/photos/362/c7569ed593b7d9c87447177d3146b362_1543470109.jpg']
+856,5702990,Jazz@PizzaExpress,308928.0,2019-02-05,2019-12-31,2 for 1 Brunch - Every Friday,['https://b.zmtcdn.com/data/zomato_events/photos/ad5/41d00ff0bf1a6d2c8895f9fd01c22ad5_1549380125.jpg']
 857,18277098,Ming's Chamber,NA,NA,NA,NA,NA
-858,5702486,Ghee Rice,335542.0,2019-04-14,2019-04-14,Vishu Celebration at Ghee Rice,[]
+858,5702486,Ghee Rice,332697.0,2019-05-04,2019-06-04,Grand Iftar Buffet 2019,[]
 859,18340175,The Yellow Chilli by Sanjeev Kapoor,NA,NA,NA,NA,NA
 860,5800678,Harbour Court - The Kingsbury,NA,NA,NA,NA,NA
 861,5801085,Tea Avenue,NA,NA,NA,NA,NA
@@ -1119,7 +1119,7 @@
 1114,7003660,Miss Clawdy,NA,NA,NA,NA,NA
 1115,7000700,Pocha 포차,NA,NA,NA,NA,NA
 1116,7004412,The Shelf,NA,NA,NA,NA,NA
-1117,7001670,"Eight - Cordis, Auckland Hotel",305850.0,2019-03-01,2019-04-30,Smoky Thursdays,['https://b.zmtcdn.com/data/zomato_events/photos/c32/6f3e2292cfd37f13698e650113679c32_1548898348.jpg']
+1117,7001670,"Eight - Cordis, Auckland Hotel",298162.0,2019-04-05,2019-08-21,Chocolate Tuesdays,['https://b.zmtcdn.com/data/zomato_events/photos/7c7/1e86b395be621acc7140265f19c477c7_1547170215.jpg']
 1118,18672367,Chamate,NA,NA,NA,NA,NA
 1119,7003002,Chikos Restaurant & Cafe,NA,NA,NA,NA,NA
 1120,7100502,Fidel's,NA,NA,NA,NA,NA
@@ -1192,7 +1192,7 @@
 1187,18554965,Magal Mapogalmegi BBQ,NA,NA,NA,NA,NA
 1188,18597282,Sushi Go!,NA,NA,NA,NA,NA
 1189,18589077,Sushi Hiro,NA,NA,NA,NA,NA
-1190,18981544,Katsu YA,329300.0,2019-03-22,2019-04-30,Review us on Zomato,['https://b.zmtcdn.com/data/zomato_events/photos/5e5/008e267a3ec8e2ce5a4089f384a275e5_1553233266.jpg']
+1190,18981544,Katsu YA,329301.0,2019-03-22,2019-04-30,Opening Promo,['https://b.zmtcdn.com/data/zomato_events/photos/a9d/cda8bfa14954779305af25631f15da9d_1553233453.jpg']
 1191,18680113,The Cutt Grill House,335217.0,2019-04-04,2019-06-01,Knowledge is power,['https://b.zmtcdn.com/data/zomato_events/photos/9f6/28778b1cc5af30accd9cda640f5bd9f6_1554356002.jpg']
 1192,18464311,Sushi Hiro,NA,NA,NA,NA,NA
 1193,18806670,Sushi Go!,NA,NA,NA,NA,NA

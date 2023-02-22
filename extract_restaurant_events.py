@@ -28,15 +28,19 @@ def retrieve_photos(event_data_photos_list):
 
 
 def retrieve_events_details(events): 
-    try:
-        
-        event_data = (events['zomato_events'][0]['event'])
-        photos_url = retrieve_photos(event_data['photos'])
-        event_data_formatted = {key:value for (key,value) in event_data.items() if key in fields_from_events}
-        event_data_final = event_data_formatted | photos_url
-        return event_data_final
-    except:
-        return {}
+    formatted_event_data = {}
+    #no data
+    if len(events) == 0:
+        return formatted_event_data
+    else:
+        events_list =events['zomato_events']
+        # events_list = 
+        for event in events_list:             
+            photos_url = retrieve_photos(event['event']['photos'])
+            event_data_formatted = {key:value for (key,value) in event['event'].items() if key in fields_from_events}
+            event_data_final = event_data_formatted | photos_url
+            formatted_event_data.update(event_data_final)
+        return formatted_event_data
 
 
 def format_data_for_csv(single_restaurant_event_data):
