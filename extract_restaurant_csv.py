@@ -55,39 +55,16 @@ def retrieve_all_only_restaurant_data(list_data_object):
 
     return ret_data
 
-restaurant_data_transformed = retrieve_all_only_restaurant_data(restaurant_data)
+restaurant_data_final = retrieve_all_only_restaurant_data(restaurant_data)
 
 
-def extract_to_csv(transformed_data):
+def extract_to_csv(restautant_data):
     try:
-        df = pd.DataFrame(transformed_data)
+        df = pd.DataFrame(restautant_data)
         df.to_csv("restaurants.csv")
 
     except:
         print("cannot write to file!")
 
 
-extract_to_csv(restaurant_data_transformed)
-
-#2. extract fields
-
-#3. save as CSV
-
-
-# Extract list of restaurants that have past event in month of april 2019 
-
-#1. pull data 
-
-#2. extract fields and fill na
-
-#3. save as restaurant_events.csv
-
-# From the dataset restaurant_data.json 
-
-#1. Deternmine treshold for diff. rating txt based on aggregate ratings
-
-# ◦ Excellent
-# ◦ Very Good
-# ◦ Good
-# ◦ Average
-# ◦ Poor
+extract_to_csv(restaurant_data_final)
