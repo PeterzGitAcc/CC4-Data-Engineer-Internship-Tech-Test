@@ -57,15 +57,20 @@ def group_ratings(rating_data_raw):
 
 def find_treshold_rating(consolidated_ratings):
     return_str = ''
-    treshold_rating_2dp = {k:round((sum(v)/len(v)),2)for k,v in consolidated_ratings.items()}
-    for k,v in treshold_rating_2dp.items():
-        return_str += "Threshold score for {0}: {1}\n".format(k,v)
+    treshold_rating_2dp = {k: round((sum(v)/len(v)), 2)
+                           for k, v in consolidated_ratings.items()}
+    for k, v in treshold_rating_2dp.items():
+        return_str += "Threshold score for {0}: {1}\n".format(k, v)
 
     return return_str
+
 
 relevant_fields = ['aggregate_rating', 'rating_text']
 rating_data_raw = retrieve_all_restaurants_data(
     all_restaurant_data, relevant_fields)
 # print(rating_data_raw)
 consolidated_ratings = group_ratings(rating_data_raw)
-print(find_treshold_rating(consolidated_ratings))
+find_treshold_rating(consolidated_ratings)
+
+if __name__ == "__main__":
+    pass

@@ -65,3 +65,5 @@ restaurant_data_final = retrieve_specific_restaurant_data(all_restaurant_data,re
 extract_to_csv(restaurant_data_final)
 
 # To include main function and boiler plate
+if __name__ == "__main__":
+    pass

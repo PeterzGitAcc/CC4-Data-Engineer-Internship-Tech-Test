@@ -3,7 +3,6 @@ from data.get_data import all_restaurant_data
 
 # functions
 
-
 def retrieve_photos(event_data_photos_list):
     ret_dict = {}
     ret_dict['photo_url'] = []
@@ -27,8 +26,6 @@ def retrieve_events_details(events, fields_from_events):
             event_data_final = event_data_formatted | photos_url
             formatted_event_data.append(event_data_final)
         return formatted_event_data
-
-# Test case: if data dict or list (retrieve specific dictionary)
 
 
 def retrieve_all_restaurant_events_data(restaurants_list, restaurant_data_events_fields, fields_from_events):
@@ -66,7 +63,7 @@ def extract_to_csv(events_data):
         df_apr2019 = df_combined.loc[df_combined['start_date']
                                      == '2019-04-01'].copy(deep=True)
         df_apr2019.fillna('NA', inplace=True)
-        df_apr2019.to_csv("./csv_output/restaurant_events.csv",index=False)
+        df_apr2019.to_csv("./csv_output/restaurant_events.csv", index=False)
     except:
         print("cannot write to file!")
 
@@ -78,3 +75,5 @@ all_restaurants_events_data = retrieve_all_restaurant_events_data(
 extract_to_csv(all_restaurants_events_data)
 
 # To include main function and boiler plate
+if __name__ == "__main__":
+    pass
