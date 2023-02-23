@@ -1,6 +1,4 @@
-from get_data import all_restaurant_data
-from extract_restaurant_csv import retrieve_user_rating
-import math 
+from data.get_data import all_restaurant_data
 
 
 def retrieve_all_restaurants_data(restaurant_data_all, relevant_fields):

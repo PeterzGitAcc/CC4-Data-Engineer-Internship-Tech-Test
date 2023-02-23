@@ -1,5 +1,5 @@
 import pandas as pd
-from get_data import all_restaurant_data
+from data.get_data import all_restaurant_data
 
 # functions
 
@@ -66,7 +66,7 @@ def extract_to_csv(events_data):
         df_apr2019 = df_combined.loc[df_combined['start_date']
                                      == '2019-04-01'].copy(deep=True)
         df_apr2019.fillna('NA', inplace=True)
-        df_apr2019.to_csv("restaurant_events.csv")
+        df_apr2019.to_csv("./csv_output/restaurant_events.csv",index=False)
     except:
         print("cannot write to file!")
 
