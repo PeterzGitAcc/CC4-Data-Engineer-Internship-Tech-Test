@@ -24,12 +24,15 @@ def retrieve_country_from_id(country_id):
         return country
     except:
         print("No country data found!")
-
+def retrieve_user_rating(single_restaurant_user_rating):
+    ret_dic ={}
+    ret_dic['votes'] = single_restaurant_user_rating['votes']
+    ret_dic['aggregate_rating']  = single_restaurant_user_rating['aggregate_rating']
+    return ret_dic
 def format_data_for_csv(single_restaurant_data):
     single_restaurant_data['city'] = single_restaurant_data['location']['city']
     single_restaurant_data['country'] = retrieve_country_from_id(single_restaurant_data['location']['country_id'])
-    single_restaurant_data['votes'] = single_restaurant_data['user_rating']['votes']
-    single_restaurant_data['aggregate_rating'] = single_restaurant_data['user_rating']['aggregate_rating']
+    single_restaurant_data = single_restaurant_data | retrieve_user_rating(single_restaurant_data['user_rating'])
     single_restaurant_data ={ key:value for (key,value) in single_restaurant_data.items() if key not in to_remove}
     return single_restaurant_data
 

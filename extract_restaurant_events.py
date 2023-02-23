@@ -1,7 +1,7 @@
 import pandas as pd
 from get_data import retrieve_data , restaurant_data_url
 #initialize global values 
-restaurant_data_events_fields = ["id",'name']
+restaurant_data_events_fields = ['id','name']
 fields_from_events = ['event_id','title','start_date','end_date']
 
 
@@ -18,7 +18,7 @@ def retrieve_photos(event_data_photos_list):
 
 
 def retrieve_events_details(events): 
-    formatted_event_data = {}
+    formatted_event_data = []
     #no data
     if len(events) == 0:
         return formatted_event_data
@@ -29,7 +29,7 @@ def retrieve_events_details(events):
             photos_url = retrieve_photos(event['event']['photos'])
             event_data_formatted = {key:value for (key,value) in event['event'].items() if key in fields_from_events}
             event_data_final = event_data_formatted | photos_url
-            formatted_event_data.update(event_data_final)
+            formatted_event_data.append(event_data_final)
         return formatted_event_data
 
 
@@ -48,39 +48,31 @@ def retrieve_all_restaurant_events_data(list_data_object):
             restaurant_data_no_events ={ key:value for (key,value) in restaurants['restaurant'].items() if key in restaurant_data_events_fields}
             restaurant_data_events ={ key:value for (key,value) in restaurants['restaurant'].items() if key == 'zomato_events'}
             restaurant_data_events_formatted = retrieve_events_details(restaurant_data_events)
-            restaurant_data = restaurant_data_no_events | restaurant_data_events_formatted
-            ret_data.append(restaurant_data)
+            restaurant_data_no_events['events'] = restaurant_data_events_formatted
+            ret_data.append(restaurant_data_no_events)
 
     return ret_data
 
-
 all_restaurants_events_data = retrieve_all_restaurant_events_data(restaurant_data)
+
+def split_to_cols(df_col):
+    rows = []
+    for index, row in df_col.items():
+        for item in row:
+            rows.append(item)
+    df_1 = pd.DataFrame(rows)
+    return df_1
 
 def extract_to_csv(events_data):
     try:
         df = pd.DataFrame(events_data)
-        df.fillna('NA',inplace=True)
-        df.to_csv("restaurant_events.csv")
+        events_df = split_to_cols(df['events'])
+        df_combined = pd.concat([df,events_df], axis=1)
+        df_combined.drop(columns=['events'], inplace = True)
+        df_apr2019 = df_combined.loc[df_combined['start_date'] == '2019-04-01'].copy(deep=True)
+        df_apr2019.fillna('NA',inplace=True)
+        df_apr2019.to_csv("restaurant_events.csv")
     except:
         print("cannot write to file!")
 
 extract_to_csv(all_restaurants_events_data)
-
-
-# Extract list of restaurants that have past event in month of april 2019 
-
-#1. pull data 
-
-#2. extract fields and fill na
-
-#3. save as restaurant_events.csv
-
-# From the dataset restaurant_data.json 
-
-#1. Deternmine treshold for diff. rating txt based on aggregate ratings
-
-# ◦ Excellent
-# ◦ Very Good
-# ◦ Good
-# ◦ Average
-# ◦ Poor

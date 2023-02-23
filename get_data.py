@@ -11,4 +11,4 @@ def retrieve_data(data_url):
     return response_data
 
 if __name__ == "__main__":
-    retrieve_data(restaurant_data_url) 
+    retrieve_data(restaurant_data_url)
