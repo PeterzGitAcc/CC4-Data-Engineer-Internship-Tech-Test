@@ -1,4 +1,3 @@
-import requests
 import pandas as pd
 from get_data import retrieve_data , restaurant_data_url
 
@@ -6,23 +5,25 @@ from get_data import retrieve_data , restaurant_data_url
 restaurant_data_url = "https://raw.githubusercontent.com/Papagoat/brain-assessment/main/restaurant_data.json"
 restaurant_data_fields = ["id",'name','location','user_rating','cuisines']
 to_remove = ['location','user_rating']
-country_data_df = pd.read_excel('./Country-Code.xlsx')
 
+#import country data
+try:
+    country_data_df = pd.read_excel('./Country-Code.xlsx')
+except:
+    print("Excel file cannot be read !")
 
 #functions
 
 
 restaurant_data = retrieve_data(restaurant_data_url)
 
-def retrieve_country_from_id(*country_id):   
-    if len(country_id) != 0:
+def retrieve_country_from_id(country_id):   
+    try:
         country_row = country_data_df.loc[country_data_df['Country Code'] == country_id]
         country = country_row['Country'].to_string(index = False)
         return country
-    # country = country_row['Country'].iloc[0]
-    # return country
-    # except:
-    #     print("No excel file / data found !")
+    except:
+        print("No country data found!")
 
 def format_data_for_csv(single_restaurant_data):
     single_restaurant_data['city'] = single_restaurant_data['location']['city']
@@ -38,16 +39,13 @@ def format_data_for_csv(single_restaurant_data):
 def retrieve_all_only_restaurant_data(list_data_object):
     #store only restaurant objs
     restaurants_all = []
-    ret_data = []
     #loop through array of results 
     for res in list_data_object:
         for restaurants in res['restaurants']:
             restaurant_data ={ key:value for (key,value) in restaurants['restaurant'].items() if key in restaurant_data_fields}
-            restaurants_all.append(restaurant_data)
-    for res_data in restaurants_all:
-        ret_data.append(format_data_for_csv(res_data))
+            restaurants_all.append(format_data_for_csv(restaurant_data))
 
-    return ret_data
+    return restaurants_all
 
 restaurant_data_final = retrieve_all_only_restaurant_data(restaurant_data)
 

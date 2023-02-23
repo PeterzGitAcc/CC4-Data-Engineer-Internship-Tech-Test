@@ -1,4 +1,3 @@
-import requests
 import pandas as pd
 from get_data import retrieve_data , restaurant_data_url
 #initialize global values 
