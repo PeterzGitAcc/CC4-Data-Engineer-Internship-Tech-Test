@@ -24,4 +24,8 @@ python v3.10.9
 
 ### Possible cloud implementations
 - The application and components can be containerized using docker.
-- These components then can then be hosted as their own microservices or as a whole app, taking in inputs from user or consuming an API, on either localhost or on a cloud provider which allows docker hosting.
+- These components then can then be hosted as their own microservices or as a whole app, taking in inputs from user or consuming an API, hosted on either localhost or on a cloud provider which allows docker hosting.
+
+## Component Diagram
+
+[Component Diagram](ComponentDiagram.png)
