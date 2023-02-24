@@ -28,4 +28,4 @@ python v3.10.9
 
 ## Component Diagram
 
-[Component Diagram](ComponentDiagram.png)
+![Component Diagram](ComponentDiagram.png)
