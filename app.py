@@ -1,4 +1,12 @@
-from data.get_data import all_restaurant_data
+import pandas as pd
+from data.get_data import all_restaurant_data, country_data_df
+from extract_restaurant import extract_restaurant
+from extract_restaurant_events import extract_restaurant_events
+from rating_threshold import rating_threshold
 
+
+extract_restaurant(all_restaurant_data,country_data_df)
+extract_restaurant_events(all_restaurant_data)
+rating_threshold(all_restaurant_data)
 
 
